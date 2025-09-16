@@ -23,7 +23,7 @@
 ### 🌐 Let's Connect!
 
 <div align="center">
-  <a href="https://ww.linkedin.com/in/sayfeddin">
+  <a href="https://www.linkedin.com/in/sayfeddin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="sayfeddinlouli3@gmail.com">
